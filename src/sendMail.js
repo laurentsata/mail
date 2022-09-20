@@ -1,4 +1,4 @@
-// sendEmail.js
+// sendMail.js
 
 const mailer = require('./mailer');
 
